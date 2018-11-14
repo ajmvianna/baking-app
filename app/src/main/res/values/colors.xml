@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="fontColorIce">#F5F5F5</color>
+    <color name="cardColor">#a7b1b0b0</color>
+    <color name="widgetBackground">#9f000000</color>
+    <color name="appBackground">#f20a4e97</color>
+    <color name="blueDetail">#068dbe</color>
+    <color name="skyBlue">#FF87CEEB</color>
+</resources>
